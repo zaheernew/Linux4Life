@@ -8,7 +8,7 @@
 </style>
 </head>
 
-<body>
+<body style="background-color: #ffffff;"> 
 
 <img src="https://www.pickacourse.lk/storage/157/167.OUSL.png" height="100" />
 
