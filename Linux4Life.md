@@ -1,12 +1,3 @@
-<html lang="en">
-<head>
-<title>Linux For Life</title>
-<style>
-    body{
-        background-color: #ffffff;
-    }
-</style>
-</head>
 
 <body style="background-color: #ffffff;"> 
 
@@ -66,5 +57,3 @@
 </table>
 
 </body>
-
-</html>
