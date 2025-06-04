@@ -1,6 +1,6 @@
 <br><br>
 
-[<< Linux4Life](https://github.com/zaheernew/Linux4Life/blob/main/Linux4Life.md){: .btn}
+[< Linux4Life](https://github.com/zaheernew/Linux4Life/blob/main/Linux4Life.md)
 
 # Module 1
 
