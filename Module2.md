@@ -6,11 +6,11 @@
 
 <br>
 
-## Basic Commands
+## LINUX-CLI
 
 <br>
 
-### File & Directory Navigation
+### Basic Commands - File & Directory Navigation
 <table>
   <tr>
     <th>Command</th>
@@ -81,7 +81,7 @@
 
 <br>
 
-### File Operations and Viewing
+### Basic Commands - File Operations and Viewing
 <table>
   <tr>
     <th>Command</th>
@@ -142,7 +142,7 @@
 
 <br>
 
-### System, Process & Package
+### Basic Commands - System, Process & Package
 <table>
     <thead>
     <tr>
@@ -210,7 +210,7 @@
 
 <br>
 
-### Host name changing
+### Basic Commands - Host name changing
 <table>
     <thead>
     <tr>
