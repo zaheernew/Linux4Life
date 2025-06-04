@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td style="border: 1px solid white; padding: 8px;">Module 1</td>
-      <td style="border: 1px solid white; padding: 8px;"><a href="https://github.com/yourusername/module1">View</a></td>
+      <td style="border: 1px solid white; padding: 8px;"><a href="https://github.com/zaheernew/Linux4Life/blob/main/Module1.md">View</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid white; padding: 8px;">Module 2</td>
