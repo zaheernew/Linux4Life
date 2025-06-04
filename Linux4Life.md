@@ -1,6 +1,7 @@
 
 
-![OUSL Logo](https://www.pickacourse.lk/storage/157/167.OUSL.png){ height=75 }
+
+<img src="https://www.pickacourse.lk/storage/157/167.OUSL.png" height="60" />
 
 # Linux for life
 
@@ -54,5 +55,3 @@
     </tr>
   </tbody>
 </table>
-
-
