@@ -52,6 +52,10 @@
       <td style="border: 1px solid white; padding: 8px;">Module 10</td>
       <td style="border: 1px solid white; padding: 8px;"><a href="https://github.com/zaheernew/Linux4Life/blob/main/Module10.md">View</a></td>
     </tr>
+    <tr>
+      <td style="border: 1px solid white; padding: 8px;">Module 11</td>
+      <td style="border: 1px solid white; padding: 8px;"><a href="https://github.com/zaheernew/Linux4Life/blob/main/Module11.md">View</a></td>
+    </tr>
   </tbody>
 </table>
 
