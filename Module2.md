@@ -140,4 +140,119 @@
   </tr>
 </table>
 
+<br>
+
+### System, Process & Package
+<table>
+    <thead>
+    <tr>
+        <th> Command</th>
+        <th> Description</th>
+        <th> Example</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td> history</td>
+        <td> Show previous commands</td>
+        <td> history</td>
+    </tr>
+    <tr>
+        <td> uname -a</td>
+        <td> Show system information</td>
+        <td> uname -a</td>
+    </tr>
+    <tr>
+        <td> whoami</td>
+        <td> Show logged-in username</td>
+        <td> whoami</td>
+    </tr>
+    <tr>
+        <td> df -h</td>
+        <td> Show disk space in human-readable form</td>
+        <td> df -h</td>
+    </tr>
+    <tr>
+        <td> top</td>
+        <td> View running processes</td>
+        <td> top</td>
+    </tr>
+    <tr>
+        <td> kill
+            <PID>
+        </td>
+        <td> Kill a process by PID</td>
+        <td> kill 1234</td>
+    </tr>
+    <tr>
+        <td> sudo</td>
+        <td> Run command as superuser</td>
+        <td> sudo apt update</td>
+    </tr>
+    <tr>
+        <td> apt update</td>
+        <td> Update package lists</td>
+        <td> sudo apt update</td>
+    </tr>
+    <tr>
+        <td> apt install</td>
+        <td> Install a package</td>
+        <td> sudo apt install curl</td>
+    </tr>
+    <tr>
+        <td> exit</td>
+        <td> Exit terminal</td>
+        <td> exit</td>
+    </tr>
+    </tbody>
+</table>
+
+
+<br>
+
+### Host name changing
+<table>
+    <thead>
+    <tr>
+        <th> Command</th>
+        <th> Description</th>
+        <th> Example</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td> hostnamectl</td>
+        <td> Check the current hostname</td>
+        <td> hostnamectl</td>
+    </tr>
+    <tr>
+        <td> sudo hostnamectl set-hostname your-new-hostname</td>
+        <td> Set a new hostname</td>
+        <td> sudo hostnamectl set-hostname web-server</td>
+    </tr>
+    <tr>
+        <td> sudo nano /etc/hosts</td>
+        <td> Edit /etc/hosts <br> 127.0.1.1 your-new-hostname</td>
+        <td> sudo nano /etc/hosts <br> 127.0.1.1 web-server</td>
+    </tr>
+    <tr>
+        <td> exec bash</td>
+        <td> To apply</td>
+        <td> exec bash</td>
+    </tr>
+    <tr>
+        <td> hostnamectl</td>
+        <td> To verify</td>
+        <td> hostnamectl</td>
+    </tr>
+    <tr>
+        <td> sudo timedatectl set-timezone Asia/Kolkata</td>
+        <td> To set date & time</td>
+        <td> sudo timedatectl set-timezone Asia/Kolkata</td>
+    </tr>
+    </tbody>
+</table>												
+
+
+
 <br><br>
