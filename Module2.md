@@ -7,6 +7,8 @@
 
 ## Basic Commands
 
+<br><br>
+
 ### File & Directory Navigation
 <table>
   <tr>
@@ -76,10 +78,8 @@
   </tr>
 </table>
 
-
-
-
 <br><br>
+
 ### File Operations and Viewing
 <table>
   <tr>
