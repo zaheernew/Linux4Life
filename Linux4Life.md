@@ -1,6 +1,6 @@
 
 
-<img style="background-color: #ffffff;" src="https://www.pickacourse.lk/storage/157/167.OUSL.png" height="100" />
+<img style="background-color: #ffffff;" src="https://www.pickacourse.lk/storage/157/167.OUSL.png" height="75" />
 
 # Linux for life
 
