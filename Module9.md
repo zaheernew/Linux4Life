@@ -25,50 +25,50 @@ The shebang (#!) at the beginning of a script tells the system which interpreter
 Example : (type in the terminal)\
 #!/bin/bash\
 echo "Script started"\
-\
-\
-\\
+<br>
+<br>
+<br>
 <h3>Variables and Conditions</h3>
 #!/bin/bash <br>
 name="Linux" <br>
 if [ "$name" == "Linux" ]; then <br> 
   echo "Welcome, $name user!" <br>
 fi <br>
-\
-\
-\
+<br>
+<br>
+<br>
 <h3>Loops and Functions</h3>
 Loops (for, while) help repeat tasks.\
 Functions group code into reusable blocks.\
 \
 Example : (type in the terminal)\
-#!/bin/bash\
-greet() {\
-echo "Hello, \$1!"\
-}\
-for user in Zaheer Saman Siva; do\
-greet \$user\
-done\
-\
-\
-\
+#!/bin/bash\ <br>
+greet() {\ <br>
+echo "Hello, $1!" <br>
+} <br>
+for user in Zaheer Saman Siva; do <br>
+greet $user <br>
+done <br>
+<br>
+<br>
+<br>
 <h3>Make Simple Script</h3>
 To run a script directly, you must make it executable.\
 \
 Example :\
 nano hello.sh\
 Add the wording (type in the terminal)\
-\
-#!/bin/bash\
-echo "Hello, Linux !”\
-date\
-\
+<br>
+#!/bin/bash<br>
+echo "Hello, Linux !”<br>
+date<br>
+<br>
 Now save and change it to the executable.\
 chmod +x hello.sh\
 Now run ./hello.sh\
-\
-\
-\
+<br>
+<br>
+<br>
 <h3>Make Script Executable</h3>
 To run a script directly, you must make it executable.\
 chmod +x hello.sh\
