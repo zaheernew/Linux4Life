@@ -16,7 +16,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>~</td><td>Tilde</td><td>Home directory of the current user (= go to home)</td><td>cd ~</td></tr>
+    <tr><td>~</td><td>Tilda</td><td>Home directory of the current user (= go to home)</td><td>cd ~</td></tr>
     <tr><td>/</td><td>Slash</td><td>Directory separator / root</td><td>/etc/passwd</td></tr>
     <tr><td>.</td><td>Dot</td><td>Current directory</td><td>./script.sh</td></tr>
     <tr><td>..</td><td>Double dot</td><td>Parent directory (= move up)</td><td>cd ..</td></tr>
