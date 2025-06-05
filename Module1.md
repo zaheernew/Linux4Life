@@ -22,7 +22,7 @@
     <tr><td>..</td><td>Double dot</td><td>Parent directory (= move up)</td><td>cd ..</td></tr>
     <tr><td>-</td><td>Dash</td><td>Option/flag for a command</td><td>ls -l</td></tr>
     <tr><td>*</td><td>Asterisk</td><td>Wildcard for any characters</td><td>ls *.txt</td></tr>
-    <tr><td>|</td><td>Pipe</td><td>Send output of one command to another</td><td>`</td></tr>
+    <tr><td>`</td><td>Pipe</td><td>Send output of one command to another</td><td>`</td></tr>
     <tr><td>></td><td>Redirect</td><td>Redirect output to a file (overwrite)</td><td>echo hi > file.txt</td></tr>
     <tr><td>>></td><td>Append Redirect</td><td>Append output to a file</td><td>echo bye >> file.txt</td></tr>
     <tr><td><</td><td>Input Redirect</td><td>Take input from a file</td><td>sort &lt; file.txt</td></tr>
