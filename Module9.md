@@ -29,13 +29,11 @@ echo "Script started"\
 \
 \\
 <h3>Variables and Conditions</h3>
----bash
 #!/bin/bash <br>
 name="Linux" <br>
 if [ "$name" == "Linux" ]; then <br> 
   echo "Welcome, $name user!" <br>
 fi <br>
----
 \
 \
 \
