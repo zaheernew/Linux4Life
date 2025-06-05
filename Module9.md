@@ -27,13 +27,14 @@ Example : (type in the terminal)\
 echo "Script started"\
 \
 \
-\<h3>Variables and Conditions</h3>
+\<br>
+<h3>Variables and Conditions</h3>
 ---bash
-#!/bin/bash \
-name="Linux" \
+#!/bin/bash
+name="Linux"
 if [ "$name" == "Linux" ]; then <br>
-  echo "Welcome, $name user!" \
-fi \
+  echo "Welcome, $name user!"
+fi
 ---
 \
 \
