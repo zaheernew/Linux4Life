@@ -27,8 +27,7 @@ Example : (type in the terminal)\
 echo "Script started"\
 \
 \
-\
-<h3>Variables and Conditions</h3>
+\<h3>Variables and Conditions</h3>
 ---bash
 #!/bin/bash \
 name="Linux" \
