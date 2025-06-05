@@ -38,12 +38,12 @@ fi <br>
 <br>
 <br>
 <h3>Loops and Functions</h3>
-Loops (for, while) help repeat tasks.\
-Functions group code into reusable blocks.\
-\
-Example : (type in the terminal)\
-#!/bin/bash\ <br>
-greet() {\ <br>
+Loops (for, while) help repeat tasks.<br>
+Functions group code into reusable blocks.<br>
+<br>
+Example : (type in the terminal)<br>
+#!/bin/bash <br>
+greet() { <br>
 echo "Hello, $1!" <br>
 } <br>
 for user in Zaheer Saman Siva; do <br>
@@ -53,34 +53,34 @@ done <br>
 <br>
 <br>
 <h3>Make Simple Script</h3>
-To run a script directly, you must make it executable.\
-\
-Example :\
-nano hello.sh\
-Add the wording (type in the terminal)\
+To run a script directly, you must make it executable.
+<br>
+Example :<br>
+nano hello.sh <br>
+Add the wording (type in the terminal) <br>
 <br>
 #!/bin/bash<br>
 echo "Hello, Linux !”<br>
 date<br>
 <br>
-Now save and change it to the executable.\
-chmod +x hello.sh\
-Now run ./hello.sh\
+Now save and change it to the executable.<br>
+chmod +x hello.sh <br>
+Now run ./hello.sh <br> 
 <br>
 <br>
 <br>
 <h3>Make Script Executable</h3>
-To run a script directly, you must make it executable.\
-chmod +x hello.sh\
-\
-Use the same file – last example :\
-(type in the terminal) – sudo nano hello.sh\
-#!/bin/bash\
-greet() {\
-echo "Hello, \$1!"\
-}\
-for user in Zaheer Saman Siva; do\
-greet \$user\
+To run a script directly, you must make it executable.<br>
+chmod +x hello.sh<br>
+<br>
+Use the same file – last example :<br>
+(type in the terminal) – sudo nano hello.sh<br>
+#!/bin/bash<br>
+greet() {<br>
+echo "Hello, $1!"<br>
+}<br>
+for user in Zaheer Saman Siva; do<br>
+greet $user<br>
 done
 
 <br><br>
