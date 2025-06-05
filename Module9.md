@@ -30,7 +30,7 @@ echo "Script started"\
 \<br>
 <h3>Variables and Conditions</h3>
 ---bash
-#!/bin/bash
+#!/bin/bash <br>
 name="Linux"
 if [ "$name" == "Linux" ]; then <br>
   echo "Welcome, $name user!"
