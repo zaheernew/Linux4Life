@@ -1,7 +1,5 @@
 <br><br>
 
-<img src="https://www.pickacourse.lk/storage/157/167.OUSL.png" height="60" />
-
 # Linux for life
 
 <table style="border: 0; border-collapse: collapse;">
